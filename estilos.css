@@ -75,3 +75,33 @@ body{
 .continue__profile-photo img{ 
     height: 6rem;
 }
+
+.continue__login{
+    background-color: #0095f6;
+    padding:10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.continue__logout{
+    color: #0095f6
+}
+
+.continue__not-account{
+    color: rgb(160, 160, 160);    
+}
+
+.continue__link{
+    color: #0095f6
+}
+
+.app__get{
+    text-align: center;
+}
+
+.app__platform img{
+    width:136px;
+    height: 40px;
+    margin-top:15px;
+    margin: 12px;
+}
